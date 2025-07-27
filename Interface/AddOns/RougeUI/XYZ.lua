@@ -62,7 +62,7 @@ local function WAHK(button, ok)
     if not key and not key2 then
         return
     end
-
+        if key == "SHIFT-3" then return end
     local cacheKeys = {}
     if key then
         cacheKeys[key] = key
