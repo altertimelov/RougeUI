@@ -7,7 +7,6 @@
 Libs\LibStub\LibStub.lua
 
 settings.lua
-frames.lua
 smooth.lua
 extra.lua
 textbar.lua
@@ -23,4 +22,5 @@ outlines.lua
 snowfallkey.lua
 sappable.lua
 combofix.lua
+
 XYZ.lua
